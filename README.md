@@ -14,4 +14,7 @@
 - **Audio Monitoring:** Real-time monitoring and alert systems for security, wildlife tracking, or machinery diagnostics.
 - **Smart Devices:** Enhance smart home devices with advanced sound recognition capabilities.
 
-Join the ClapSnap community and contribute to the evolution of sound recognition technology!
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
