@@ -1,6 +1,6 @@
 # ClapSnap
 
-**ClapSnap** is an advanced sound recognition app utilizing the CLAP model to accurately distinguish and classify sounds based on 1-second segmentation. Designed for quick and efficient sound analysis, ClapSnap leverages cutting-edge technology to provide precise sound classification in real-time.
+**ClapSnap** is a sound recognition app utilizing the CLAP model to accurately distinguish and classify sounds based on 1-second segmentation. Designed for quick and efficient sound analysis, ClapSnap leverages cutting-edge technology to provide precise sound classification in real-time.
 
 ## Features
 - **1-Second Segmentation:** Breaks down audio into 1-second segments for detailed analysis.
